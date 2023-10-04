@@ -3,7 +3,7 @@ import socket
 from datetime import datetime
 
 
-target = "sdsucyberdefense.org"
+target = "localhost"
 
 if len(sys.argv) == 2:
     # translate hostname to IPv4
