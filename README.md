@@ -4,8 +4,8 @@ It allows users to specify a target IP address or hostname and scan a range of p
 Created this in Cyber Defense Club.
 
 How to use:
-Go to terminal and run the program
-Make sure to include target website URL or IP address
+Go to terminal and run the program.
+Make sure to include target website URL or IP address.
 Will take around 5 minutes to scan.
 
 Only use on websites with proper authorization.
